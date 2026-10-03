@@ -1,5 +1,7 @@
 # Find AI models and tools with Fullstacklib
 
+Want to suggest a tool? See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Want to find a relevant AI tool?
 
 Describe what you want to do at [Fullstacklib](https://fullstacklib.com/ai-tools). Browse the AI tools directory, compare product profiles, and choose a tool that fits your task, budget, and workflow. For example, search for *"build a website from a prompt"* or *"summarize research documents"*.
